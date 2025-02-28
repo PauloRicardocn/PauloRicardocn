@@ -8,8 +8,9 @@ Banco de Dados: MySQL, Postgresql
 Ferramentas e Plataformas: Git
 Automação: Automação de tarefas, integração de APIs e Programação em Sistemas Embarcados
 
-##🚀 Projetos Destacados:
+🚀 Projetos Destacados:
 Registro de Presença utilizando RFID: https://github.com/PauloRicardocn/Projeto_Registro-de-presenca
+
 Estudo de complexo de Algoritmos: https://github.com/PauloRicardocn/Desempenho-e-Complexidade-Um-Estudo-Comparativo-dos-Algoritmos-de-Ordena-o
 
 🌱 Atualmente Aprendendo:
