@@ -15,6 +15,7 @@ Estudo de complexo de Algoritmos: https://github.com/PauloRicardocn/Desempenho-e
 
 🌱 Atualmente Aprendendo:
 Novas frameworks e bibliotecas para desenvolvimento front-end e back-end.
+
 Técnicas avançadas de machine learning e inteligência artificial.
 
 📫 Como Entrar em Contato:
@@ -24,8 +25,11 @@ E-mail: paulofreitascn@gmail.com
 
 💡 Interesses:
 Desenvolvimento de software
+
 Automação de processos
+
 Inovação tecnológica
+
 Colaboração em projetos open source
 
 💬 Sinta-se à vontade para explorar meus repositórios e contribuir com ideias ou feedback. Vamos construir algo incrível juntos! 🚀
